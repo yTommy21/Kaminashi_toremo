@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NewPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SandbagController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SandbagBodyCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SandbagMain.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewBaseCharacterController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerBodyCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerShadow.cs" Line="33" Column="24" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="20" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
