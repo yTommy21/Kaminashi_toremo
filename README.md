@@ -18,22 +18,23 @@ MacOSX Yosemite
 Unity 5.3.5f
 
 ### 作成ファイル
-Assets/Scripts以下の下記スクリプト
-・KaminashiMainControl.cs
-　プレイヤーの入力からどのアクションを行うかを指定
-・NewBaseCharacterController.cs
-　KaminashiMainControlから呼び出されるアクション関数を定義
-・NewPlayerController.cs
-　プレイヤーの現在の状態に応じたアニメーションを実行するスクリプト
-・SandbagBodyCollider.cs
-　配置した攻撃できるサンドバッグの当たり判定に関するスクリプト
-・SandbagController.cs
-　サンドバッグの動作に関するスクリプト
+Assets/Scripts以下の下記スクリプト</br>
+・KaminashiMainControl.cs</br>
+　プレイヤーの入力からどのアクションを行うかを指定</br>
+・NewBaseCharacterController.cs</br>
+　KaminashiMainControlから呼び出されるアクション関数を定義</br>
+・NewPlayerController.cs</br>
+　プレイヤーの現在の状態に応じたアニメーションを実行するスクリプト</br>
+・SandbagBodyCollider.cs</br>
+　配置した攻撃できるサンドバッグの当たり判定に関するスクリプト</br>
+・SandbagController.cs</br>
+　サンドバッグの動作に関するスクリプト</br>
 
-Assets/Sprites/Animations/以下のアニメーションファイルの作成
+Assets/Sprites/Animations/以下のアニメーションファイルの作成</br>
 
 ### 操作方法
-移動：WASD、↑←↓→
-攻撃A：左Altキー
-攻撃B：左Shiftキー
+移動：WASD、↑←↓→</br>
+ジャンプ：Spaceキー</br>
+攻撃A：左Altキー</br>
+攻撃B：左Shiftキー</br>
 
